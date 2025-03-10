@@ -31,9 +31,9 @@ By offering a centralized platform that consolidates information, guides, and ma
 ## 👀 Sneak Peek
 <table>
   <tr>
-    <td><img src="readme_images/welcomePage.PNG" width="200"></td>
-    <td><img src="readme_images/demoLandmarkPage.PNG" width="200"></td>
-    <td><img src="readme_images/demo.gif" width="200"></td>
+    <td><img src="readme_images/welcomePage.jpg" width="200"></td>
+    <td><img src="readme_images/demoLandmarkPage.jpg" width="200"></td>
+    <td><img src="readme_images/demoVideo.gif" width="200"></td>
   </tr>
 </table>
 
